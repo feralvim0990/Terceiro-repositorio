@@ -1,1 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Kode+Mono:wght@400..700&display=swap')
+
+
+:root {
+    --cor-de-fundo: #020202;
+    --verde: #8add7c;
+    --branco: #FFFFFF;
+    --botao-ativo: #2c2853;
+    --botao-inativo: rgba(58, 55, 94, 0.5);
+    --texto-fundo: rgba(58, 55, 94, 0.3);
+}
+
+body {
+    background-color: var(--cor-de-fundo);
+    color: var(--branco);
+}  
+
 
